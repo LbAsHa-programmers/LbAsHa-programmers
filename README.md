@@ -58,6 +58,12 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=LbAsHa-programmers&theme=tokyonight_duo&hide_border=true"
  </p>
   
+  
+  ![image](https://user-images.githubusercontent.com/96270251/236948435-47938c3d-ecd5-483d-a597-8a7f9a18e9c7.png)
+  
+  
 ### 🐍 Don't Let The Snake Eat Your Contributions Graph
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  
+
 
